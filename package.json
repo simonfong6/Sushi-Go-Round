@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/jennhuynh02/Sushi-Go-Round/issues"
   },
-  "homepage": "https://github.com/simonfong6/Sushi-Go-Round#readme",
+  "homepage": "https://simonfong6.github.io/Sushi-Go-Round/",
   "dependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",

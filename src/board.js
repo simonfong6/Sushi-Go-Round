@@ -5,7 +5,7 @@ import Tile from './tile';
 import ScoreBar from './scorebar';
 
 const PLATTERIMAGE = new Image();
-PLATTERIMAGE.src = '../assets/platter.png';
+PLATTERIMAGE.src = 'assets/platter.png';
 
 export default class Board {
   constructor(dimensions) {
